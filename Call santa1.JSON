@@ -1,0 +1,24 @@
+{
+    "show_ads": true,
+    "bannerAd": "applovin",
+    "interAd": "applovin",
+    "nativeAd": "applovin",
+    "rewardAd": "applovin",
+    "AdMobId": "ca-app-pub-2079566797790285",
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInter": "ca-app-pub-3940256099942544/1033173712",
+    "admobNative": "ca-app-pub-3940256099942544/2247696110",
+    "admobReward": "ca-app-pub-3940256099942544/5224354917",
+    "applovin_banner": "d7e5387a22cc8044",
+    "applovin_inter": "269d73adeea133fb",
+    "applovin_native": "a6fd082b7e1e25a6",
+	"applovin_Reward": "a017b8481646d9c2",
+    "ironsource_key": "119fb1c7d",
+    "unityGameID": "3883855",
+    "unityBanner": "banner",
+    "unityInter": "video",
+    "unityReward": "video"
+}
+
+
+
